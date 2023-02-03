@@ -1,0 +1,28 @@
+{
+    "name":"Pokemon App",
+    "short_name":"Pokedex",
+    "description": "PokeDex Website created using React",
+    "icons":[
+            {
+                "src":"/android-chrome-192x192.png",
+                "sizes":"192x192",
+                "type":"image/png"
+            },
+            {
+                "src":"/android-chrome-192x192.png",
+                "sizes":"192x192",
+                "type":"image/png",
+                "purpose": "maskable"
+            },
+            {
+                "src":"/android-chrome-512x512.png",
+                "sizes":"512x512",
+                "type":"image/png"
+            }
+            
+        ],
+    "theme_color":"#01414b",
+    "background_color":"white",
+    "display":"standalone",
+    "start_url": "/"
+}
