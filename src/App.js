@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import './App.css';
+import './App.scss';
 import axios from 'axios'
 import Header from './components/Header/Header';
 import PokemonCard from './components/PokemonCard/PokemonCard';
@@ -29,6 +29,9 @@ function App() {
             <PokemonCard key={pokemon?.name} pokemon={pokemon} id={index} />
           );
         })}
+      </div>
+      <div className='poke-button-div'>
+        <button onClick={()=>{alert("Yay! You've reached the end")}}>Click Here</button>
       </div>
     </div>
   );
