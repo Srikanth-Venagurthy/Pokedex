@@ -4,13 +4,14 @@
     align-items: center;
     justify-content: center;
     gap: 10px;
+    width: 280px !important;
 
     img{
         padding: 10px;
         border: 1px solid #01414B;
         border-radius: 4px;
-        height: 220px;
-        width: 220px;
+        height: 200px;
+        width: 200px;
     }
 
     p{

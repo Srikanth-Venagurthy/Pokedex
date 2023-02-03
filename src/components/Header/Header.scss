@@ -1,7 +1,19 @@
 .pokemon-header-container{
-    width: 100%;
-    padding: 10px;
+    width: 100% !important;
+    padding: 10px 0px;
     color: white;
     background-color: #01414B;
-    
+    overflow-x: hidden;
+    height: 40px !important;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    @media screen and (max-width: 400px) {
+        width: 100% !important;
+    }
+
+    p{
+        margin: 0px;
+        margin-left: 20px;  
+    }
 }

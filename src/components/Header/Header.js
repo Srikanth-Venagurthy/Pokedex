@@ -3,8 +3,10 @@ import './Header.scss'
 
 const Header = () => {
   return (
-    <div className='pokemon-header-container'>Pokemon App</div>
-  )
+    <div className="pokemon-header-container">
+      <p>Pokemon App</p>
+    </div>
+  );
 }
 
 export default Header
