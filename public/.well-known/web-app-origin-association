@@ -1,0 +1,10 @@
+{
+  "web_apps": [
+    {
+      "manifest": "https://srikanth-venagurthy.github.io/Pokedex/manifest.json",
+      "details": {
+        "paths": ["/*"]
+      }
+    }
+  ]
+}
