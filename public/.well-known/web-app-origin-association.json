@@ -3,9 +3,9 @@
     {
       "manifest": "https://srikanth-venagurthy.github.io/Pokedex/manifest.json",
       "details": {
-        "paths": ["/*"],
+        "paths": ["/PokeDex/*"],
         "exclude_paths": [],
-        "scope": "https://srikanth-venagurthy.github.io/Pokedex",
+        "scope": "/PokeDex/",
         "authorize": ["intercept-links"]
       }
     }

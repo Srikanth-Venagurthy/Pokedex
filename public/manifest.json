@@ -33,14 +33,15 @@
     "display":"standalone",
     "start_url": "https://srikanth-venagurthy.github.io/Pokedex/",
     "url_handlers": [
-    {
-      "origin": "https://staging.sukhiba.com/v2/"
-    }
-  ],"handle_links": "preferred",
-  "related_applications": [
-    {
-      "platform": "web",
-      "url": "https://staging.sukhiba.com/v2/"
-    }
-  ]
+        {
+        "origin": "https://srikanth-venagurthy.github.io/Pokedex/"
+        }
+    ],
+    "handle_links": "preferred",
+    "related_applications": [
+        {
+            "platform": "web",
+            "url": "https://srikanth-venagurthy.github.io/Pokedex/"
+        }
+    ]
 }
