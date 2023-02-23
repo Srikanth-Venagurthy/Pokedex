@@ -31,9 +31,10 @@
     "background_color":"white",
     "display":"standalone",
     "handle_links": "preferred",
+    "platforms": ["web"],
     "scope_extensions": [
         {
-            "origin": "srikanth-venagurthy.github.io/Pokedex"
+            "origin": "srikanth-venagurthy.github.io"
         },
         {
             "origin": "https://srikanth-venagurthy.github.io/Pokedex"
