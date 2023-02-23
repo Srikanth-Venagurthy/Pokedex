@@ -3,7 +3,10 @@
     {
       "manifest": "https://srikanth-venagurthy.github.io/Pokedex/manifest.json",
       "details": {
-        "paths": ["/*"]
+        "paths": ["/*"],
+        "exclude_paths": [],
+        "scope": "https://srikanth-venagurthy.github.io/Pokedex",
+        "authorize": ["intercept-links"]
       }
     }
   ]

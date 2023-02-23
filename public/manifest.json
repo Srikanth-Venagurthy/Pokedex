@@ -2,6 +2,7 @@
     "name":"Pokemon App",
     "short_name":"Pokedex",
     "description": "PokeDex Website created using React",
+    "scope": ".",
     "icons":[
             {
                 "src":"android-chrome-192x192.png",
@@ -33,7 +34,13 @@
     "start_url": "https://srikanth-venagurthy.github.io/Pokedex/",
     "url_handlers": [
     {
-        "origin": "https://srikanth-venagurthy.github.io/Pokedex/"
+      "origin": "https://staging.sukhiba.com/v2/"
+    }
+  ],"handle_links": "preferred",
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://staging.sukhiba.com/v2/"
     }
   ]
 }
