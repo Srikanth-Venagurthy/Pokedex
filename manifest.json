@@ -30,10 +30,19 @@
     "theme_color":"#01414b",
     "background_color":"white",
     "display":"standalone",
-    "start_url": "https://srikanth-venagurthy.github.io/Pokedex/",
+    "handle_links": "preferred",
+    "scope_extensions": [
+        {
+            "origin": "srikanth-venagurthy.github.io/Pokedex"
+        },
+        {
+            "origin": "https://srikanth-venagurthy.github.io/Pokedex"
+        }
+    ],
+    "start_url": "https://srikanth-venagurthy.github.io/Pokedex",
     "url_handlers": [
-    {
-        "origin": "https://srikanth-venagurthy.github.io/Pokedex/"
-    }
-  ]
+        {
+            "origin": "https://srikanth-venagurthy.github.io/Pokedex"
+        }
+    ]
 }
