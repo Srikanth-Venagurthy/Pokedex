@@ -32,6 +32,12 @@
     "display":"standalone",
     "handle_links": "preferred",
     "platforms": ["web"],
+    "intents": {
+    "intent": "view",
+    "type": "text/html",
+    "href": "https://srikanth-venagurthy.github.io/Pokedex",
+    "disposition": "inline"
+  },
     "scope_extensions": [
         {
             "origin": "srikanth-venagurthy.github.io"
