@@ -31,24 +31,10 @@
     "background_color":"white",
     "display":"standalone",
     "handle_links": "preferred",
-    "intents": {
-    "intent": "view",
-    "type": "text/html",
-    "href": "https://srikanth-venagurthy.github.io/Pokedex",
-    "disposition": "inline"
-  },
-    "scope_extensions": [
-        {
-            "origin": "srikanth-venagurthy.github.io"
-        },
-        {
-            "origin": "https://srikanth-venagurthy.github.io/Pokedex"
-        }
-    ],
     "start_url": "https://srikanth-venagurthy.github.io/Pokedex",
     "url_handlers": [
-        {
-            "origin": "https://srikanth-venagurthy.github.io"
-        }
-    ]
+    {
+        "origin": "https://srikanth-venagurthy.github.io/Pokedex"
+    }
+  ]
 }
