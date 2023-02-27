@@ -47,11 +47,12 @@
     "intents": {
     "intent": "view",
     "type": "text/html",
-    "href": "*",
+    "href": "https://srikanth-venagurthy.github.io/Pokedex/",
     "disposition": "inline"
   },
   "scope_extensions": [
-    {"origin": "*.sukhiba.com/v2/"},
-    {"origin": "sukhiba.com/v2/"}
+    {
+        "origin": "https://srikanth-venagurthy.github.io/Pokedex/"
+    }
   ]
 }
