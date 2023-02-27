@@ -43,5 +43,11 @@
             "platform": "web",
             "url": "https://srikanth-venagurthy.github.io/Pokedex/"
         }
-    ]
+    ],
+    "intents": {
+    "intent": "view",
+    "type": "text/html",
+    "href": "*",
+    "disposition": "inline"
+  }
 }
