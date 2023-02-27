@@ -32,11 +32,6 @@
     "background_color":"white",
     "display":"standalone",
     "start_url": "https://srikanth-venagurthy.github.io/Pokedex/",
-    "url_handlers": [
-        {
-        "origin": "https://srikanth-venagurthy.github.io/Pokedex/"
-        }
-    ],
     "handle_links": "preferred",
     "related_applications": [
         {
