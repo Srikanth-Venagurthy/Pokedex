@@ -49,5 +49,9 @@
     "type": "text/html",
     "href": "*",
     "disposition": "inline"
-  }
+  },
+  "scope_extensions": [
+    {"origin": "*.sukhiba.com/v2/"},
+    {"origin": "sukhiba.com/v2/"}
+  ]
 }
